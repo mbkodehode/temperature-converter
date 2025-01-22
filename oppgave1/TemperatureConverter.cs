@@ -25,4 +25,11 @@ public class TemperatureConverter
     {
         return (kelvin - 273.15) * 9/5 + 32;
     }
+    public static double ifEqual()
+    {
+        if (con1 == con2)
+        {
+            return num1
+        }
+    }
 }
