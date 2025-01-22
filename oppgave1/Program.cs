@@ -1,6 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
-
+app.MapGet("/", () => app.MapGet("/",context => {
+    // Greeting("Devrim");
+    context.Response.Redirect("/index.html");
+    return Task.CompletedTask;
+}));
 app.Run();
