@@ -5,16 +5,11 @@ public enum TempUnits
     KelvinToCelsius,
     CelsiusToKelvin,
     FahrenheitToKelvin,
-    KelvinToFahrenheit,
-    IfEqual
-};
+    KelvinToFahrenheit
+}
+
 public class TemperatureConverter
 {
-    internal static object ConvertTemperature()
-    {
-        throw new NotImplementedException();
-    }
-
     public double ConvertTemperature(double value, TempUnits conversionType)
     {
         switch (conversionType)

@@ -4,40 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Temperature Converter</title>
+    <script src="script.js" type="text/javascript"></script>
 </head>
 <body>
     <h1>Temperature Converter</h1>
     <form id="converterForm">
         <label for="temperature">Temperature:</label>
         <input type="number" id="temperature" name="temperature" required>
-        <br>
-        <label for="conversionType">Convert to:</label>
-        <select id="conversionType" name="conversionType">
-            <option value="celsiusToFahrenheit">Celsius to Fahrenheit</option>
-            <option value="fahrenheitToCelsius">Fahrenheit to Celsius</option>
+        
+        <label for="conversionType">Conversion Type:</label>
+        <select id="conversionType" name="conversionType" required>
+            <option value="FahrenheitToCelsius">Fahrenheit to Celsius</option>
+            <option value="CelsiusToFahrenheit">Celsius to Fahrenheit</option>
+            <option value="KelvinToCelsius">Kelvin to Celsius</option>
+            <option value="CelsiusToKelvin">Celsius to Kelvin</option>
+            <option value="FahrenheitToKelvin">Fahrenheit to Kelvin</option>
+            <option value="KelvinToFahrenheit">Kelvin to Fahrenheit</option>
         </select>
-        <br>
+        
         <button type="submit">Convert</button>
     </form>
-    <p id="result"></p>
+    <div id="result"></div>
 
-    <script>
-        document.getElementById('converterForm').addEventListener('submit', async function(event) {
-            event.preventDefault();
-            const temperature = document.getElementById('temperature').value;
-            const conversionType = document.getElementById('conversionType').value;
 
-            const response = await fetch('/convert', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({ temperature, conversionType })
-            });
 
-            const result = await response.json();
-            document.getElementById('result').innerText = `Converted Temperature: ${result.convertedTemperature}`;
-        });
-    </script>
 </body>
 </html>
