@@ -1,20 +1,18 @@
-document.getElementById('converterForm').addEventListener('submit', async function(event) {
-    event.preventDefault();
-    const temperature = document.getElementById('temperature').value;
-    const conversionType = document.getElementById('conversionType').value;
+document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('converterForm').addEventListener('submit', async function(event) {
+        event.preventDefault();
+        const formData = new FormData(document.getElementById('converterForm'));
 
-    const response = await fetch('/convert', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({ temperature: parseFloat(temperature), conversionType })
+        const response = await fetch('/convert', {
+            method: 'POST',
+            body: formData
+        });
+
+        if (response.ok) {
+            const result = await response.json();
+            document.getElementById('result').innerText = `Converted Temperature: ${result.convertedTemperature}`;
+        } else {
+            document.getElementById('result').innerText = 'Error converting temperature';
+        }
     });
-
-    if (response.ok) {
-        const result = await response.json();
-        document.getElementById('result').innerText = `Converted Temperature: ${result.convertedTemperature}`;
-    } else {
-        document.getElementById('result').innerText = 'Error converting temperature';
-    }
 });

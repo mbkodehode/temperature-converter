@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TDwiaFMVE/le/lA+E54RV3iTiTWWEeul+vZRez6opSI=",
+  "Hash": "WaAIPB1WD6LGq97EorGr2NjNAaqwHyN6tFxYGFgL3o8=",
   "Source": "oppgave1",
   "BasePath": "_content/oppgave1",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-38p4ztgp7u.gz",
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-opi76o79id.gz",
       "SourceId": "oppgave1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/oppgave1",
-      "RelativePath": "index#[.{fingerprint=38p4ztgp7u}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=opi76o79id}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,19 +31,19 @@
       "RelatedAsset": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "i9929fb0md",
-      "Integrity": "mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y=",
+      "Fingerprint": "nw0jjq39r2",
+      "Integrity": "V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-i5xws1stu5.gz",
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-shj0b9icpu.gz",
       "SourceId": "oppgave1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/oppgave1",
-      "RelativePath": "script#[.{fingerprint=i5xws1stu5}]?.js.gz",
+      "RelativePath": "script#[.{fingerprint=shj0b9icpu}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qoj2tv7lhi",
-      "Integrity": "KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs=",
+      "Fingerprint": "369a6whf1k",
+      "Integrity": "FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\script.js"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "38p4ztgp7u",
-      "Integrity": "TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=",
+      "Fingerprint": "opi76o79id",
+      "Integrity": "hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i5xws1stu5",
-      "Integrity": "KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ=",
+      "Fingerprint": "shj0b9icpu",
+      "Integrity": "sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\script.js"
@@ -103,13 +103,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "index.38p4ztgp7u.html",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-38p4ztgp7u.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-opi76o79id.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002227171492"
+          "Quality": "0.002242152466"
         }
       ],
       "ResponseHeaders": [
@@ -119,19 +119,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "445"
         },
         {
           "Name": "ETag",
-          "Value": "\"mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y=\""
+          "Value": "\"V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -147,26 +147,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\""
+          "Value": "W/\"hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "38p4ztgp7u"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="
+          "Value": "sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="
         }
       ]
     },
     {
-      "Route": "index.38p4ztgp7u.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -184,11 +176,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\""
+          "Value": "\"hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-opi76o79id.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0="
+        }
+      ]
+    },
+    {
+      "Route": "index.opi76o79id.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-opi76o79id.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002242152466"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opi76o79id"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="
+        }
+      ]
+    },
+    {
+      "Route": "index.opi76o79id.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,7 +335,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "38p4ztgp7u"
+          "Value": "opi76o79id"
         },
         {
           "Name": "label",
@@ -206,13 +343,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="
+          "Value": "sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="
         }
       ]
     },
     {
-      "Route": "index.38p4ztgp7u.html.gz",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-38p4ztgp7u.gz",
+      "Route": "index.opi76o79id.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-opi76o79id.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -221,7 +358,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "445"
         },
         {
           "Name": "Content-Type",
@@ -229,11 +366,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y=\""
+          "Value": "\"V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
+          "Value": "Thu, 23 Jan 2025 13:33:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -251,7 +388,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "38p4ztgp7u"
+          "Value": "opi76o79id"
         },
         {
           "Name": "label",
@@ -259,18 +396,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y="
+          "Value": "sha256-V5bJXi4PBzxfwQmeH9CojoOeHBoW57LlaGBuP2c/xs0="
         }
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-38p4ztgp7u.gz",
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-shj0b9icpu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002227171492"
+          "Quality": "0.003184713376"
         }
       ],
       "ResponseHeaders": [
@@ -280,156 +417,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "448"
+          "Value": "313"
         },
         {
           "Name": "ETag",
-          "Value": "\"mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y=\""
+          "Value": "\"FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1177"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\5n3whpmdwm-38p4ztgp7u.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "448"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:17:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mm84SkZ+LXaBOzenh8J22/hw+c/RjFChHGhdBa7BG1Y="
-        }
-      ]
-    },
-    {
-      "Route": "script.i5xws1stu5.js",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-i5xws1stu5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002652519894"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "376"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -445,26 +445,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ=\""
+          "Value": "W/\"sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "i5xws1stu5"
-        },
-        {
-          "Name": "label",
-          "Value": "script.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ="
+          "Value": "sha256-sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k="
         }
       ]
     },
     {
-      "Route": "script.i5xws1stu5.js",
+      "Route": "script.js",
       "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -474,7 +466,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "818"
+          "Value": "672"
         },
         {
           "Name": "Content-Type",
@@ -482,11 +474,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ=\""
+          "Value": "\"sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-shj0b9icpu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo="
+        }
+      ]
+    },
+    {
+      "Route": "script.shj0b9icpu.js",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-shj0b9icpu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003184713376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "shj0b9icpu"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k="
+        }
+      ]
+    },
+    {
+      "Route": "script.shj0b9icpu.js",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -496,7 +633,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i5xws1stu5"
+          "Value": "shj0b9icpu"
         },
         {
           "Name": "label",
@@ -504,13 +641,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ="
+          "Value": "sha256-sDFVC6WqPUk8vb3quAfCNCpZsH+aoHeZRmGdV+KJj4k="
         }
       ]
     },
     {
-      "Route": "script.i5xws1stu5.js.gz",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-i5xws1stu5.gz",
+      "Route": "script.shj0b9icpu.js.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-shj0b9icpu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +656,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "376"
+          "Value": "313"
         },
         {
           "Name": "Content-Type",
@@ -527,11 +664,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs=\""
+          "Value": "\"FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
+          "Value": "Thu, 23 Jan 2025 13:41:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -549,7 +686,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i5xws1stu5"
+          "Value": "shj0b9icpu"
         },
         {
           "Name": "label",
@@ -557,144 +694,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs="
-        }
-      ]
-    },
-    {
-      "Route": "script.js",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-i5xws1stu5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002652519894"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "376"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ="
-        }
-      ]
-    },
-    {
-      "Route": "script.js",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\wwwroot\\script.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "818"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KlArfjeV7svWmTH4D6UK6AqR+it+miyosPACbbPBxIQ="
-        }
-      ]
-    },
-    {
-      "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\uke7\\Innlevering\\temperature-converter\\oppgave1\\obj\\Debug\\net9.0\\compressed\\wx2lancj3w-i5xws1stu5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "376"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 13:30:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KpmgfwIeKC9V6PoAipaapu2AvTBSp3q6wsXJOyNZDLs="
+          "Value": "sha256-FZ3Dfq4FzqKMD2PPsAgB4aLZQShiz7sa88mPdQUvuNo="
         }
       ]
     }

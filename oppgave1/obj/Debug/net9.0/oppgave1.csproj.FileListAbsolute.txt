@@ -14,8 +14,6 @@ C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-con
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\oppgave1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\oppgave1.sourcelink.json
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\scopedcss\bundle\oppgave1.styles.css
-C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\compressed\5n3whpmdwm-38p4ztgp7u.gz
-C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\compressed\wx2lancj3w-i5xws1stu5.gz
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -30,3 +28,5 @@ C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-con
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\oppgave1.pdb
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\oppgave1.genruntimeconfig.cache
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\ref\oppgave1.dll
+C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\compressed\5n3whpmdwm-opi76o79id.gz
+C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\compressed\wx2lancj3w-shj0b9icpu.gz

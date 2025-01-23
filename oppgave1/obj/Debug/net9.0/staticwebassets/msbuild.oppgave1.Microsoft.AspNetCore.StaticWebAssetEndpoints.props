@@ -1,28 +1,28 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/oppgave1/index.38p4ztgp7u.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"38p4ztgp7u"},{"Name":"integrity","Value":"sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="},{"Name":"label","Value":"_content/oppgave1/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1177"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:17:22 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/oppgave1/index.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1177"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022TdBCX47w1PiuitQ2dU4buktlWPwqpaOGIVnAbwrEOmI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:17:22 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1177"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:33:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/oppgave1/script.i5xws1stu5.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/oppgave1/index.opi76o79id.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i5xws1stu5"},{"Name":"integrity","Value":"sha256-KlArfjeV7svWmTH4D6UK6AqR\u002Bit\u002BmiyosPACbbPBxIQ="},{"Name":"label","Value":"_content/oppgave1/script.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"818"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KlArfjeV7svWmTH4D6UK6AqR\u002Bit\u002BmiyosPACbbPBxIQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:30:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"opi76o79id"},{"Name":"integrity","Value":"sha256-hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY="},{"Name":"label","Value":"_content/oppgave1/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1177"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hM8BBC4t0qiLNRismWJt1a62qcYU2JOffTCfJUc18pY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:33:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/oppgave1/script.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KlArfjeV7svWmTH4D6UK6AqR\u002Bit\u002BmiyosPACbbPBxIQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"818"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KlArfjeV7svWmTH4D6UK6AqR\u002Bit\u002BmiyosPACbbPBxIQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:30:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sDFVC6WqPUk8vb3quAfCNCpZsH\u002BaoHeZRmGdV\u002BKJj4k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"672"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022sDFVC6WqPUk8vb3quAfCNCpZsH\u002BaoHeZRmGdV\u002BKJj4k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:41:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/oppgave1/script.shj0b9icpu.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"shj0b9icpu"},{"Name":"integrity","Value":"sha256-sDFVC6WqPUk8vb3quAfCNCpZsH\u002BaoHeZRmGdV\u002BKJj4k="},{"Name":"label","Value":"_content/oppgave1/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"672"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022sDFVC6WqPUk8vb3quAfCNCpZsH\u002BaoHeZRmGdV\u002BKJj4k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 23 Jan 2025 13:41:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
