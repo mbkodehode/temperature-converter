@@ -3,16 +3,17 @@ using Microsoft.AspNetCore.Mvc;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.UseStaticFiles();
+// hello world endpoint
+app.MapGet("/", () => "Hello World!");
 
-app.MapGet("/", context => {
-    context.Response.Redirect("/index.html");
-    return Task.CompletedTask;
-});
-
-app.MapPost("/convert", ([FromForm] double temperature, [FromForm] TempUnits conversionType) => {
+// Endpoint for temperature conversion
+app.MapPost("/convert", ([FromForm] double temp, [FromForm] string fromUnits, [FromForm] string toUnits) => {
+    if (double.IsNaN(temp))
+    {
+        return Results.BadRequest("temperature must be a number");
+    } 
     var converter = new TemperatureConverter();
-    return Results.Json(new { convertedTemperature = converter.ConvertTemperature(temperature, conversionType) });
-});
+    return Results.Ok(new { convertedTemperature = converter.ConvertTemperature(temp, fromUnits, toUnits) });
+}).DisableAntiforgery();
 
 app.Run();
