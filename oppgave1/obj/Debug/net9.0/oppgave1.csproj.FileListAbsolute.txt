@@ -59,3 +59,6 @@ C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net9.0\oppgave1.pdb
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net9.0\oppgave1.genruntimeconfig.cache
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net9.0\ref\oppgave1.dll
+C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\oppgave1.staticwebassets.runtime.json
+C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net9.0\compressed\5n3whpmdwm-cxh6du3kez.gz
+C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\obj\Debug\net9.0\compressed\wx2lancj3w-5ipweew5fc.gz

@@ -3,9 +3,11 @@ using Microsoft.AspNetCore.Mvc;
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
+app.UseStaticFiles();
 // hello world endpoint
-app.MapGet("/", () => "Hello World!");
-
+app.MapGet("/", async context => {
+    context.Response.Redirect("/index.html");
+});
 // Endpoint for temperature conversion
 app.MapPost("/convert", ([FromForm] string temp, [FromForm] string fromUnits, [FromForm] string toUnits) => {
     if (!double.TryParse(temp, out double temperature))
