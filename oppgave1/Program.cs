@@ -7,6 +7,7 @@ app.UseStaticFiles();
 // hello world endpoint
 app.MapGet("/", async context => {
     context.Response.Redirect("/index.html");
+    await Task.CompletedTask;
 });
 // Endpoint for temperature conversion
 app.MapPost("/convert", ([FromForm] string temp, [FromForm] string fromUnits, [FromForm] string toUnits) => {
