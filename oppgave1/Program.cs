@@ -7,13 +7,13 @@ var app = builder.Build();
 app.MapGet("/", () => "Hello World!");
 
 // Endpoint for temperature conversion
-app.MapPost("/convert", ([FromForm] double temp, [FromForm] string fromUnits, [FromForm] string toUnits) => {
-    if (double.IsNaN(temp))
+app.MapPost("/convert", ([FromForm] string temp, [FromForm] string fromUnits, [FromForm] string toUnits) => {
+    if (!double.TryParse(temp, out double temperature))
     {
         return Results.BadRequest("temperature must be a number");
     } 
     var converter = new TemperatureConverter();
-    return Results.Ok(new { convertedTemperature = converter.ConvertTemperature(temp, fromUnits, toUnits) });
+    return Results.Ok(new { convertedTemperature = converter.ConvertTemperature(temperature, fromUnits, toUnits) });
 }).DisableAntiforgery();
 
 app.Run();

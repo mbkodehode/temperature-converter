@@ -32,7 +32,6 @@ C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-con
 C:\Users\Instruktor.P-02464\Documents\Kurs 1811\uke7\Innlevering\temperature-converter\oppgave1\obj\Debug\net9.0\compressed\wx2lancj3w-shj0b9icpu.gz
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\appsettings.json
-C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\oppgave1.staticwebassets.runtime.json
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\oppgave1.staticwebassets.endpoints.json
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\oppgave1.exe
 C:\Users\Martin M Bjørklund\Documents\kodehodekurs\uke 7\oppgave1\bin\Debug\net9.0\oppgave1.deps.json
